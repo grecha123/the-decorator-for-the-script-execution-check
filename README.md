@@ -1,0 +1,1 @@
+# the-decorator-for-the-script-execution-check
